@@ -3,7 +3,7 @@ This repository contains the entire project for an aid for the specially visione
 
 <img src="readMe/cover.png" height=500  hspace=20px vspace=200px/>
 
-# Reasons for Ikshana aims to be a go-to complete solution:<br>
+# Reasons for Ikshana to aim to be a go-to complete solution:<br>
 1. **Cost Effectiveness:** The entire project focusses on a budget of less than INR 10000 which is ~$200.
 2. **Haptic Sensory Aid:** Blind people generally develop other senses like hearing very well. Sensory aid in terms of viable haptic feedbacks will help the people develop a strong sense of orientation
 3. **Compactness:** The entire project has been designed by keeping in mind the implementation on Nvidia Jetson board. The entire project is thus compact in nature and can be carried around/installed very well.
