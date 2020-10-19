@@ -112,20 +112,19 @@ Currently, it has MobileNetV1, MobileNetV2, and VGG based SSD/SSD-Lite implement
 <img src="readMe/resultss.png" height=500  hspace=20px vspace=200px/>
 
 ### F. Aims and Upcoming Targets:
-<br>
-1.	Collect training data and train a lane detection model
-2.	Add servo motors feedback support
-3.	Add sound support
-4.	3D printing of spectacles
-5.	Train UNET model architecture for other tasks such as path planning etc.
-6.	Improve UNET accuracy (the loss is low; however, the model output(s) are not satisfactory)
-7.	Drawing lanes (depends upon the improving UNET accuracy)
-8.	Improving lane detection (by taking averages of lane positions)
-9.	Pedestrian detection (by tracking for more FPS)
-10.	Improving speed of pedestrian detection (by using tracking instead of detection)
-11.	Run optimized models on Jetson Nano (available in Nvidia Jetson Inference)
-12.	Optimizing the project to run faster on Jetson Nano (conversion of models into Nvidia TensorRT)
-13.	Adding GPS support for better navigation with path planning along with integration of face recognition support
+1. Collect training data and train a lane detection model
+2. Add servo motors feedback support
+3. Add sound support
+4. 3D printing of spectacles
+5. Train UNET model architecture for other tasks such as path planning etc.
+6. Improve UNET accuracy (the loss is low; however, the model output(s) are not satisfactory)
+7. Drawing lanes (depends upon the improving UNET accuracy)
+8. Improving lane detection (by taking averages of lane positions)
+9. Pedestrian detection (by tracking for more FPS)
+10. Improving speed of pedestrian detection (by using tracking instead of detection)
+11. Run optimized models on Jetson Nano (available in Nvidia Jetson Inference)
+12. Optimizing the project to run faster on Jetson Nano (conversion of models into Nvidia TensorRT)
+13. Adding GPS support for better navigation with path planning along with integration of face recognition support
 
 # References
 1. [PyTorch](https://pytorch.org/)
