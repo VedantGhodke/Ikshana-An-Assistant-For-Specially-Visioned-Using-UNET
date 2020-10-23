@@ -91,9 +91,6 @@ This is being aimed to achieve, using DLibs face detector model. The implementat
 
 ### C. 3-D Modelling of the Spectacles:
 The following is the planned CAD model for the spectacles that hold the haptic sensors: <br>
-<img src="readMe/specs4.jpg" height=400 width=600 align="center" hspace=125px/>
-<img src="readMe/specs2.jpg" height=400 width=600 align="center"  hspace=125px/>
-<img src="readMe/specs3.jpg" height=400 width=600 align="center"  hspace=125px/>
 <img src="readMe/cover.png" height=400 width=600 align="center"  hspace=125px/>
 
 ### D. Pedestrian Detection Using MobileNet V1 SSD: <br>
