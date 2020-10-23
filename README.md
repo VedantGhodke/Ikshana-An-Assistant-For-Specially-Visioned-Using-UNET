@@ -8,7 +8,7 @@ This repository contains the entire project for an aid for the specially visione
 2. **Haptic Sensory Aid:** Blind people generally develop other senses like hearing very well. Sensory aid in terms of viable haptic feedbacks will help the people develop a strong sense of orientation
 3. **Compactness:** The entire project has been designed by keeping in mind the implementation on Nvidia Jetson board. The entire project is thus compact in nature and can be carried around/installed very well.
 
-# Hardware requirements
+# Hardware Requirements
 1. Nvidia Jetson Nano.
 2. Arduino Nano.
 3. Servo motors (x2)
@@ -18,7 +18,7 @@ This repository contains the entire project for an aid for the specially visione
 7. Power adapter for Nvidia Jetson Nano
 8. Laptop (Nvidia GPU preferred) or any cloud service provider
 
-# Software requirements(If running on Laptop)
+# Software Requirements (If running on Laptop)
 1. Ubuntu machine(16.04 preferred).
 2. Install anaconda.
 3. Install the required dependencies. Some libraries like pytorch, opencv would require a little extra attention.<br>
@@ -30,7 +30,7 @@ This repository contains the entire project for an aid for the specially visione
 8. Compile and run arduino Nano code in the arduino nano.
 9. Run blindrunner.py
 
-# Software Requirements(Jetson nano)
+# Software Requirements (Nvidia Jetson Nano)
 1. Follow [these](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit) instructions for starting up with Nvidia Jetson Nano.
 2. For connecting headless setup with Nvidia Jetson Nano (using ethernet cable), use the following snippet: <br>
 ```
