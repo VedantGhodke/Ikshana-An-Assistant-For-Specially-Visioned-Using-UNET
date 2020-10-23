@@ -61,6 +61,7 @@ For downloading the labelled data from Labelbox, I have made a small utility nam
 ### B. Training the Model
 We are in process of collection of CNN architectures. The team has currently worked on the model training code and has been able to complete face detection and human identification algorithms. The training of the model for the same is done and tested.<br>
 
+
 Till the existing pending milestone, we have evaluated the performance of the developed model(s) and chose the one with the best accuracy. We got a training accuracy of about 97% and we expect to get roughly the same accuracy for all the trained models. However, observations depicted that the model in which implemented regularization performed better on the test set. We currently are in process of completion of model architecture for the Keras UNET trainer models. <br>
 
 We trained a lane detection model which would predict the lane (left, center, right) the host was walking in. The following are a few snapshots of the implementation tests on Microsoft Azure: <br>
